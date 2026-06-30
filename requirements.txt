@@ -1,0 +1,6 @@
+# No external dependencies required
+# Built-in Python modules only
+
+os
+zlib
+lzma
